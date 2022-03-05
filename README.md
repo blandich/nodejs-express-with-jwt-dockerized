@@ -66,4 +66,5 @@ Exposed APIs
 To issue unit tests, after issuing docker-compose up, 
 access the container that runs the app:
 `docker exec -it growsari-node-jwt_app_1 bash`
+
 `npm test`
